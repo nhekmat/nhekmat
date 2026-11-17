@@ -6,4 +6,7 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
-[![GitHub stats](https://github-stats-extended.vercel.app/api?username=nhekmat)](https://github.com/stats-organization/github-stats-extended)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=nhekmat&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=nhekmat&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nhekmat&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
